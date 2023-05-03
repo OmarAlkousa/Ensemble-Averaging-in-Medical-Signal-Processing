@@ -21,7 +21,7 @@ Therefore, we use ensemble averaging on 100 signals to get the visual response (
 </p>
 
 ## References
-[**[1]**](https://doi.org/10.1016/B978-0-12-809395-5) Semmlow, J. (2018). Signal Analysis in the Time Domain. In Circuits, Signals and Systems for Bioengineers (pp. 51–110). Elsevier. https://doi.org/10.1016/B978-0-12-809395-5.00002-3
+[**[1]**](https://doi.org/10.1016/B978-0-12-809395-5.00002-3) Semmlow, J. (2018). Signal Analysis in the Time Domain. In Circuits, Signals and Systems for Bioengineers (pp. 51–110). Elsevier. https://doi.org/10.1016/B978-0-12-809395-5.00002-3
 
 [**[2]**](https://www.ijarcce.com/upload/2016/august-16/IJARCCE%2052.pdf) Thomas, T. (2005). Ensemble Averaging Filter for Noise Reduction. International Journal of Advanced Research in Computer and Communication Engineering, 5(8).
 
