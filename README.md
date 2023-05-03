@@ -1,4 +1,4 @@
-# Ensemble Averaging in Medical Signal Processing [**[Code]**](https://github.com/OmarAlkousa/Ensemble-Averaging-in-Medical-Signal-Processing/blob/8ae7c2fc08a1759dfdb9adc5845773e58de40a20/Ensemble%20Averaging%20in%20Medical%20Signal%20Processing.ipynb)
+# Ensemble Averaging in Medical Signal Processing [**[Code]**](https://github.com/OmarAlkousa/Ensemble-Averaging-in-Medical-Signal-Processing/blob/c1040f12f73a1f0055bcf047b8e29888e33ceec1/Ensemble_Averaging_in_Medical_Signal_Processing.ipynb) [**[Towards Data Science]**](https://medium.com/towards-data-science/ensemble-averaging-in-medical-signal-processing-17116d0cf0d2)
 
 Dealing with data as a researcher, a data scientist/analyst,  or even in any science field is inevitable. Thus, the reliability of the data you're working with is crucial as it decides the reliability of your work.
 
